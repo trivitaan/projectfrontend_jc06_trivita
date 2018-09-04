@@ -1,0 +1,21 @@
+
+.row {
+  color: rgb(8, 71, 40);
+  /* background-color: navajowhite; */
+  padding: 20px
+}
+
+h1 {
+  color: plum;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px
+}
+
+.carousel {
+  align-self: center;
+  width: 900px;
+  height: 350px;
+  /* background-color: peachpuff; */
+  display: grid;
+  padding: 20px;
+}
